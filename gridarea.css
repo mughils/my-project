@@ -1,0 +1,110 @@
+
+.dialup {
+    height: 100%;
+    width: 60%;
+    display: grid;
+    padding: 5%;
+    grid-template-columns: auto auto auto;
+    /* background-color: rgb(230, 247, 241); */
+    border: 10px;
+    gap: 10px;
+    margin: 5%;
+    font-family:Arial, Helvetica, sans-serif;
+   font-style: italic;
+}
+.one {
+    height: 50%;
+    width: 10%;
+    display: grid;
+    grid-column: 1/5;
+    padding: 20px;
+    
+    background-color: rgb(41, 163, 179);
+    border: 10px;
+        
+}
+
+P {
+    font-weight: 1000;
+}
+.two {
+    height: 50%;
+    width: 10%;
+    display: grid;
+    padding: 20px;
+   
+    background-color: rgb(41, 163, 179);
+    border: 10px;
+    
+}
+.three {
+    height: 50%;
+    width: 10%;
+    display: grid;
+    padding: 20px;
+    
+    background-color: rgb(41, 163, 179);
+    border: 10px;
+    
+}
+.four {
+    height: 50%;
+    width: 10%;
+    display: grid;
+    padding: 20px;
+    
+    background-color: rgb(41, 163, 179);
+    border: 10px;  
+    
+}
+.five {
+    height: 50%;
+    width: 10%;
+    display: grid;
+    padding: 20px;
+    
+    background-color: rgb(41, 163, 179);
+    border: 10px;  
+    
+}
+.six {
+    height: 50%;
+    width: 10%;
+    display: grid;
+    padding: 20px;
+   
+    background-color: rgb(41, 163, 179);
+    border: 10px; 
+    
+}
+.seven {
+    height: 50%;
+    width: 10%;
+    display: grid;
+    padding: 20px;
+    
+    background-color: rgb(41, 163, 179);
+    border: 10px; 
+    
+}
+.eight {
+    height: 50%;
+    width: 10%;
+    display: grid;
+    padding: 20px;
+    
+    background-color: rgb(41, 163, 179);
+    border: 10px;
+    
+}
+
+.nine {
+    height: 50%;
+    width: 10%; 
+    display: grid;
+    padding: 20px;
+   
+    background-color: rgb(41, 163, 179);
+    border: 10px;
+    
+}
