@@ -1,62 +1,43 @@
+* {
+    margin-left: 20px;
+}
 .heading {
     margin-top: 20px;
     padding-top: 20px;
+    height: 90%;
     position: sticky;
+    top: 2px;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    /* background-color: aqua; */
+    background-color: white;
     font-family: "Poppins", Sans-serif;
-    font-size: 17px;
+    font-size: 29px;
     font-weight: 600;
 } 
 .log {
     padding-left: 5%;
-    align-self: center;
+    text-align: center;
 
+}
+.navbar{
+    display: flex;
+    padding: 20px;
+    gap: 160px;
+
+}
+.navbar div a:hover{
+    color: rgb(34, 103, 182);
 }
 a {
     text-decoration: none;
-}
-.ino {
-    display: grid;
-    margin-top:30px ;
-    height: max-content;
-    width: max-content;
-    grid-template-columns: auto auto;
-    gap: 50px;
-}
-.carrer img{
-    padding-top: 20px;
-    padding-right: 50%;
-    
-    border-top-left-radius: 10%;
-    border-top-right-radius: 10%;
-    border-bottom-left-radius: 10%;
-    border-bottom-right-radius: 10%;
+    color: black;
 }
 
 /* .dropdown {
     position: relative;
     display: inline-block;
 } */
-#gobal {
-    color: #008BD0;
-    font-size: 26px;
-    font-family: sans-serif;
-}
-h2 {
-    color: black;
-    font-size: 40px;
-    font-family: sans-serif;
-}
-.information {
-    font-family: inter;
-    font-size: 16px;
-    text-align: justify;
-    padding-right: 50%;
-}
-
 .dropdown-content {
     display: none;
     position: absolute;
@@ -65,7 +46,6 @@ h2 {
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
 }
-
 .dropdown-content a {
     color: black;
     padding: 12px 16px;
@@ -83,4 +63,148 @@ h2 {
 
 .dropdown:hover .drop-trigger {
     background-color: #3e8e41;
+}
+.infro {
+    display: grid;
+    margin-top:30px ;
+    height: max-content;
+    width: max-content;
+    /* background-color: #3e8e41; */
+    grid-template-columns: auto auto;
+    gap: 50px;
+}
+.infro img {
+    border-radius: 1%;
+}
+.information {
+    font-family: "inter";
+    font-size: 16px;
+    text-align: left;
+    padding-right: 60%;
+}
+#gobal {
+    color: #008BD0;
+    font-size: 26px;
+    font-family: sans-serif;
+}
+h2 {
+    color: black;
+    font-size: 60px;
+    font-family: sans-serif;
+}
+
+hr {
+    margin-top: 5%;
+    width: 90%;
+    color: #777;
+}
+button  {
+    margin-top: 5%;
+    margin-left:19% ;
+    height: 10%;
+    width: 20%;
+    text-align: center;
+    background-color: #008BD0;
+    font-size: 31px;
+}
+button a {
+    color: white;
+    font-family: "Inter";
+}
+.courses {
+    margin-top: 5%;
+    margin-left: 5%;
+    font-size: 29px;
+   
+}
+#separation {
+    font-family: "Inter";
+    font-size: 29px;
+    color: #008BD0;
+}
+.views  {
+    display: flex;
+    justify-content: space-between;
+    color: #008BD0;
+    font-family: "Inter";
+    font-size: 29px;
+}
+.views a {
+ color:#008BD0;    
+}
+.list {
+    height: max-content;
+    width: 100%;
+    /* display: flex;  */
+    
+}
+.software {
+margin: 10px;
+width: 38%;
+background-color: lightgray;
+
+}
+.software img {
+    width: 90%;
+}
+.software p {
+    font-family: "Montserrat",sans-serif;
+    font-size: 40px;
+    font-weight: 790;
+    color:#008BD0;
+    text-align: center;
+}
+.mobiletechnology {
+margin: 5px;
+width: 38%;
+background-color: lightgray;
+}
+.mobiletechnology img {
+    width: 90%;
+}
+.mobiletechnology p {
+    font-family: "Montserrat",sans-serif;
+    font-size: 40px;
+    font-weight: 790;
+    color:#008BD0;
+    text-align: center;
+}
+.multimedia {
+margin: 5px;
+width: 38%;
+background-color: lightgray;
+}
+.multimedia img {
+    width: 90%;
+}
+.multimedia p {
+    font-family: "Montserrat",sans-serif;
+    font-size: 40px;
+    font-weight: 790;
+    color:#008BD0;
+    text-align: center;
+}
+.englishtraining {
+margin: 5px;
+width: 38%;
+background-color: lightgray;
+}
+.englishtraining img {
+    width: 90%;
+}
+.englishtraining p {
+    font-family: "Montserrat",sans-serif;
+    font-size: 40px;
+    font-weight: 790;
+    color:#008BD0;
+    text-align: center;
+}
+.partner {
+    padding-top: 50px;
+    font-size: 30px;
+    line-height: 1.24;
+    text-align: center;
+    height: 500px;
+    width: 100%;
+    background-color: #777;
 }
