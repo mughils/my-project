@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="layout2.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+</head>
+<body>
+   <head>
+    <div class="heading">
+        <div class="log">
+    <img src="https://gtectrichy.com/wp-content/uploads/2023/07/profile-pic-e1719154833880.jpg" alt="">    
+</div>
+<div class="navbar">
+    <div >
+        <a href=""> Home</a></div>
+        
+    <div >
+        <a href=""> About</a>
+       </div>
+    <div>
+        <a href="">Company</a></div>
+    <div >
+        <div class="drop-trigger">
+            <a href="">course 🇻</a></div>
+    <div class="dropdown-content"> 
+        <a href="">Core Values</a>
+        <a href="">Vision & Mission</a>
+        <a href="">G Tech International</a>
+        <a href="">Affilliation & Awards</a>
+        </div>   
+</div>
+    <div >
+        <a href="">Blog</a>
+         </div>
+    <div > 
+        <a href="">Contact</a>
+        </div>
+ 
+ <div class="intro7">
+    <a href="">📞 +91 9003944255</a>
+ </div>
+</div>
+</div>
+   </head> 
+<div class="infro">
+    
+        <img src="https://sbihm.com/wp-content/uploads/2023/03/steps-img-2.png" alt="">
+    
+    <div class="information">
+        <p id="gobal">MAKING PROFESSIONALS GLOBALLY</p>
+        <h2>G-TEC EDUCATION - TRICHY</h2>
+        <p>G-TEC Education, best software training institute in trichy an ISO-certified education institute in Trichy, excels in various educational segments including ICT, academic programs, ITeS, corporate training, skilling, and vocational training, including government projects. Our commitment to quality learning ensures that students receive the best software training institute in trichy. and skills required to succeed in today’s competitive world.
+        </p>
+            <p>
+            At Trichy G-TEC, we train and groom students with advanced programming courses, AI and data science courses, engineering design courses, and more. As the best software training institute in trichy, our vendor-certified courses equip students with the expertise to work anywhere globally, enhancing their career prospects.</p>
+    <br><br>
+    <hr>
+    <button>
+        <a href="">About Us</a></button>
+    </div>
+    </div>
+    <div class="courses">
+    <div class="views">
+        <P>Courses</P>
+            <a href="">View All Course  →</a>
+            </div>
+            <h2>Explore Courses</h2>
+    </div>
+    <div class="list">
+    <div class="software">
+        <a href="">
+        <img src="https://gtectrichy.com/wp-content/uploads/2024/06/WhatsApp-Image-2024-06-27-at-2.27.25-PM-2.jpeg" alt="" >
+        <p>SOFTWARE</p>
+    </a>
+    </div>
+    <div class="mobiletechnology">
+        <a href="">
+       <img src="https://gtectrichy.com/wp-content/uploads/2024/06/WhatsApp-Image-2024-06-27-at-2.27.25-PM-1.jpeg" alt="" sizes="(max-width: 1080px) 100vw, 1080px">
+      <p>MOBILE TECHNOLOGY</p>
+    </a>
+    </div>
+    <div class="multimedia">
+        <a href="">
+       <img src="https://gtectrichy.com/wp-content/uploads/2024/06/WhatsApp-Image-2024-06-27-at-2.27.25-PM-2.jpeg" alt="" sizes="(max-width: 1080px) 100vw, 1080px">
+    <P>MULTIMEDIA</P>  
+    </a>
+    </div>
+    <div class="englishtraining">
+        <a href="">
+            <img src="https://gtectrichy.com/wp-content/uploads/2024/06/WhatsApp-Image-2024-06-27-at-2.27.25-PM-1.jpeg" alt="" sizes="(max-width: 1080px) 100vw, 1080px">
+        <P>ENGLISH TRAINING</P>
+    </a>
+    </div>
+</div>
+<div class="partner">
+    <h1>Our Affilliation</h1>
+<div></div>
+</div>
+<footer>
+<div class="records">
+    <div class="testmonial">
+        <h4>Our Testmonial</h4>
+        <p>You'll find something to spark your curiosity and enhance</p>
+    </div>
+    <div class="review1">
+     
+        G Tech Education provided me with the skills and confidence needed to excel in the IT industry. The supportive environment and the well-structured courses were instrumental in my career development. I highly recommend G Tech Education to anyone looking to enhance their IT skills
+        Product Image
+        Divya Raj
+        Data Science course
+    </div>
+        <div class="review2">   
+        
+        I am grateful for the guidance and training provided by G Tech Education. The faculty members are very supportive and always available to clear doubts.best software training institute in trichy. The real-world projects and practical sessions were particularly beneficial. I now feel well-prepared to tackle any challenges in my IT career
+        Product Image
+        Ravi Shankar
+        Network Engineer
+    </div> 
+        <div class="review3">
+        The training I received at G Tech Education was top-notch. The blend of theoretical knowledge and practical experience helped me gain a deep understanding of IT concepts. The placement assistance was also very effective, and I secured a job soon after completing my course
+        Product Image
+        Karthik N
+        Cybersecurity Specialist   
+    </div>
+</div>
+</footer>
+</body>
+</html>
